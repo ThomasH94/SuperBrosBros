@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54312ff9c7f0f4541b60a5c26b5a1c4a, type: 3}
+  m_Name: GoombaStats
+  m_EditorClassIdentifier: 
+  characterName: Goomba
+  characterDescription: The rough n' toughest goombas this side of the mushroom kingdom.
+  moveSpeed: 0
+  maxMoveSpeed: 0
+  gravityMultiplier: 0
+  characterLayer:
+    serializedVersion: 2
+    m_Bits: 1024
