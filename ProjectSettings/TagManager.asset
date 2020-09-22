@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - Playable
-  - Props
-  - Enemies
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -41,7 +41,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Farground
+  - name: Distance
     uniqueID: 368713971
     locked: 0
   - name: Background

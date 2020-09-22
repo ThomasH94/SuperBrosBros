@@ -1,16 +1,13 @@
 {
   "dependencies": {
-    "com.mambojambostudios.unity-atoms": "https://github.com/AdamRamberg/unity-atoms.git",
-    "com.unity.2d.pixel-perfect": "2.0.4",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.cinemachine": "2.3.4",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
-    "com.unity.ide.vscode": "1.2.0",
-    "com.unity.inputsystem": "1.0.0-preview.3",
-    "com.unity.render-pipelines.lightweight": "7.3.1",
-    "com.unity.test-framework": "1.1.14",
+    "com.unity.ide.vscode": "1.1.3",
+    "com.unity.render-pipelines.lightweight": "7.1.6",
+    "com.unity.test-framework": "1.1.3",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.9",
     "com.unity.ugui": "1.0.0",
@@ -45,11 +42,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "com.mambojambostudios.unity-atoms": {
-      "revision": "HEAD",
-      "hash": "b51de335e0fb3568a478a7cbd0561a5649f01cf3"
-    }
   }
 }
